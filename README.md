@@ -30,3 +30,6 @@ Technologies & Tools
 - Data Processing & Analysis: Python 3.11, pandas, numpy, scikit-learn
 - Visualisation: seaborn, matplotlib, mplfinance
 - Other: Power BI (supplementary visuals)
+
+
+* Dataset imported from https://www.kaggle.com/datasets/debashis74017/nifty-50-minute-data 
